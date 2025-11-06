@@ -5,3 +5,8 @@ Consumed a lot of time
 This is a remake version of Cpp-Snake-Game using raylib and Lua programming language
 
 Original raylib.lua file here: [raylib.lua](https://github.com/darltrash/raylib-luajit)
+
+
+Ahh shit this cannot perform raymath functions wtf??
+
+Bye bye !
